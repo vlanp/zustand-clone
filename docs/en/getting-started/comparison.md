@@ -2,6 +2,7 @@
 title: Comparison
 description: How Zustand stacks up against similar libraries
 nav: 1
+id: /1kV230U9XCsl3TClqjDXDLYz0ELD1rSQ1pF9biAITw=
 ---
 
 Zustand is one of many state management libraries for React.

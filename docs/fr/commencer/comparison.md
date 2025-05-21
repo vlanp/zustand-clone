@@ -2,6 +2,7 @@
 title: Comparaison
 description: Comment Zustand se compare aux bibliothèques similaires
 nav: 1
+id: /1kV230U9XCsl3TClqjDXDLYz0ELD1rSQ1pF9biAITw=
 ---
 
 Zustand est l'une des nombreuses bibliothèques de gestion d'état pour React.
