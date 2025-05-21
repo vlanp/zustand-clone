@@ -8,6 +8,16 @@ nav: 0
   <img src="../../bear.jpg" alt="Logo Zustand" />
 </div>
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/gX24Xx_HlmQ?si=Bqc8STx_FKM2n7Y-"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerPolicy="strict-origin-when-cross-origin"
+  allowFullScreen
+></iframe>
+
 A small, fast, and scalable bearbones state management solution.
 Zustand has a comfy API based on hooks.
 It isn't boilerplatey or opinionated,
